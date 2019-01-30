@@ -1,6 +1,6 @@
-def my_each (counter)
-  while counter < 3
-  "The current number"
+def my_each (name)
+  while name < 3
+  "The current name"
   counter += 1
 end
 end
