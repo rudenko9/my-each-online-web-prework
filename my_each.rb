@@ -1,7 +1,7 @@
 def my_each (name)
   while name < 3
   "The current name"
-  counter += 1
+  name += 1
 end
 end
 
